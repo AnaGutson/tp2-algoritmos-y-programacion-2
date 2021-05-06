@@ -1,6 +1,3 @@
-Buen día Lucas, ¿cómo estás? Se procederá a aclarar algunas cuestiones sobre el trabajo, ya que capaz podrían generar duda - y además es obligatorio hacerlo.
-Puede resultar parecido al read_me anterior pero tiene varios agregados nuevos en la sección "Convenciones".
-
 ────────────────────────────────────────────────────────────────────Convenciones────────────────────────────────────────────────────────────────────
 
 ● Las convenciones que se utilizan en el trabajo son con base en qué me parece más legible, siempre respetando el uso del ​snake_case​.
