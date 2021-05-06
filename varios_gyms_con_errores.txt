@@ -1,0 +1,51 @@
+G;Gimnasio de Ciudad Celeste; 15; 3
+L;Misty
+P;Staryu; 50; 40; 50
+P;Starmie; 90; 50; 60
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Horsea; 45; 30; 20
+P;Shellder; 30;20;45
+P;Shellder; 30;20;45
+P;Shellder; 30;20;45
+P;Shellde2ewdsfgdwetwgedwr; 30;20;45
+P;Shellder; 30;20;45
+P;Shellder; 30;20;45
+P;Shellder; 30;20;45234567
+G;Gimnasio de Ciudad Algo 2; 3; 4
+L;Mendez
+P;Slowpoke;15;27;35
+P;Abra;47;20;15
+E;Manu
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;492345678765432345649
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+P;Bulbasaur;45;49;49
+E;Lucas
+P;Pikachu;46;55;40
+P;Plusle;54;50;40
+G;Gimnasio sin lider; 4; 2
+E;Manu
+P;Bulbasaur;45;49;49
+G;Gimnasio sin entrenador; 4; 5
+G;Gimnasio lider poke; 4; 5
+L;Como no tengo pokemons
+R;Gimnasio formato mal; 15; 3
+X;Misty
+T;Staryu; 50; 40; 50
+T;Starmie; 90; 50; 60
+G;Dominguera Diana
+X;Goldeen; 40; 50; 30
+P;Nadador Luis
+E;Horsea; 45; 30; 20
+G;Shellder; 30;20;45

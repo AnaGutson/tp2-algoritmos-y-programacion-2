@@ -1,0 +1,10 @@
+E;Nadador Luis
+P;Horsea; 45; 30; 20
+P;Shellder; 30;20;45
+P;lul; 2;3;6
+P;Horsea; 45; 30; 20
+P;Shellder; 30;20;45
+P;lul; 2;3;6
+P;Horsea; 45; 30; 20
+P;Shellder; 30;20;45
+P;lul; 2;3;6

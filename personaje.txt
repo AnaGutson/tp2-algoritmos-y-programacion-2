@@ -1,0 +1,10 @@
+E;entrenador_1
+P;pokemon_1; 15;16;17
+P;pokemon_2; 15;16;17
+P;pokemon_3; 15;16;17
+P;pokemon_4; 12;13;14
+P;pokemon_6; 15;16;17
+P;pokemon_7; 15;16;17
+P;pokemon_8; 15;16;17
+E;entrenador_2
+
